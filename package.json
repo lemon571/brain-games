@@ -1,0 +1,21 @@
+{
+  "name": "lr2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.31.0",
+    "lr2": "file:",
+    "prompt-sync": "^4.2.0"
+  },
+  "description": "",
+  "devDependencies": {
+    "eslint": "^9.11.1",
+    "globals": "^15.10.0"
+  }
+}
