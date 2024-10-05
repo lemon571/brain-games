@@ -1,4 +1,5 @@
 # Brain-games
+[![Maintainability](https://api.codeclimate.com/v1/badges/3e1f157bf945543311bc/maintainability)](https://codeclimate.com/github/lemon571/brain-games/maintainability)<br>
 
 Для старта игры используйте команду node brain-games.js<br>
 Для выхода из игры используйте команду exit
